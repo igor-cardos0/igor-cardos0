@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Cardoso
+# 👨🏻‍💻 Igor Cardoso 
 
 **`Desenvolvedor FullStack`**
 
